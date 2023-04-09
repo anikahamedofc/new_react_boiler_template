@@ -3,6 +3,6 @@ React without a framework?
 To Run This App Please follow this commend
 Now run:
 
-  cd myapp
-  npm install
+  cd myapp =>
+  npm install =>
   npm run dev
